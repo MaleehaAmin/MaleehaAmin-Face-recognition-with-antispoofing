@@ -1,9 +1,5 @@
 # Face Recognition +  Anti-Spoofing/liveness-detection Attendance System
 
-## 🖼️ Demo
-
-![Live Demo](demo/demo.png)
-
 ## 🛡️ Anti-Spoofing Technology
 
 Uses **7 classical computer vision techniques** - NO deep learning required!
